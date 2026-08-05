@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/home/daniel/.config/herd-lite/bin/php",
+            "args": [
+                "/home/daniel/PhpstormProjects/symmetrical-octo-guacamole/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
